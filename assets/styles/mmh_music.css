@@ -139,6 +139,10 @@ h2 {
 	margin-top: 15px;
 }
 
+.reaction sup {
+	font-size: 70%;
+}
+
 .awaiting {
 	background-color: rgba(255,174,15,0.72);
 	border: 1.2px solid rgba(255,174,15,1);
@@ -152,4 +156,9 @@ h2 {
 .failed {
 	background-color: rgba(153,0,0,0.72);
 	border: 1.2px solid rgba(153,0,0,1);
+}
+
+.info {
+	background-color: rgba(12,149,224,0.72);
+	border: 1.2px solid rgba(12,149,224,1.00);
 }
